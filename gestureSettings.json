@@ -1,0 +1,11 @@
+{
+    "gestureCount": 2,
+    "gridCols": 3,
+    "gridRows": 0,
+    "debugGrid": false,
+    "flukeDist": 600,
+    "gestures": ["open","close"],
+    "collectionWindow": 10000,
+    "debugStream": true,
+    "flukeWindow": 5
+}
